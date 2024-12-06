@@ -11,6 +11,9 @@ The **Magellan Virus** is a mysterious and terrifying piece of software designed
 - **Icon Chaos:** Draws random icons on the desktop, making it look like your system is possessed. 🔧⚠
 - **Cursor Madness:** Randomly moves the cursor to unpredictable locations, making it impossible to control. 🎨❄️
 - **Disturbing Sounds:** Generates and plays looping bytebeat audio to add an eerie ambiance. 🎵☠
+- **MBR Manipulation:** Modifies the Master Boot Record (MBR) to create persistent and destructive effects. 💾⚡
+- **Rootkit Integration:** Hides its presence in processes and paths, making it extremely difficult to detect. 🛡️🕵️
+- **UAC Bypass:** Elevates privileges silently, bypassing User Account Control (UAC) prompts. 🔓⚙️
 
 ## How It Works
 The Magellan Virus uses advanced Windows API calls to:

@@ -1,4 +1,5 @@
-$1![Magellan Virus Preview](https://i.ibb.co/fNXyHhT/Magellan.png)
+# MagellanVirus
+![Magellan Virus Preview](https://i.ibb.co/fNXyHhT/Magellan.png)
 
 > **Disclaimer: This project is for educational purposes only. The creator, ABOLHB, does not take responsibility for any malicious or unethical use of this software.**
 
